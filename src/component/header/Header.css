@@ -1,0 +1,17 @@
+.menu{
+    color:#ffffff !important;
+}
+.menu:hover{
+    background-color: rgb(134, 82, 82);
+}
+
+.menu:hover {
+    color: cadetblue;
+}
+body{
+    background-color: green;
+}
+.headBox{
+    padding: 15px;
+    border-radius: 30px;
+}
